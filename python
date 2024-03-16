@@ -1,0 +1,47 @@
+# Estrutura de repetição:
+ramos_direito= ['Criminal', 'Tributário', 'Empresarial', 'Civil']
+esportes=['Natação', 'Tênis', 'Corrida', 'Futebol']
+
+def estrutura_rep(lista):
+  for itens in lista:
+    print(itens)
+
+estrutura_rep(ramos_direito)
+estrutura_rep(esportes)
+
+Criminal
+Tributário
+Empresarial
+Civil
+Natação
+Tênis
+Corrida
+Futebol 
+
+# Estrutura de tomada de decisão:
+def escolhas():
+  while True:
+    try:
+      escolha_do_usuario = int(input("Você gosta de sorvete? Se sim, responda 1, caso contrário, 0:"
+      if escolha_do_usuario == 1 or escolha_do_usuario == 0:
+        break
+      else:
+        print("Erro de execução. Favor responder corretamente com 1 ou 0.") 
+    except:
+      print("Erro de execução. Favor responder corretamente com 1 ou 0.")
+if escolhas_do_usuario == 1:
+  print("Você tem bom gosto")
+else:
+  print("Acho melhor você rever seus hábitos...")
+escolhas ()
+Você gosta de sorvete? Se sim, responda 1, caso contrário, 0: a
+Erro de execução. Favor responder corretamente com 1 ou 0.
+Você gosta de sorvete? Se sim, responda 1, caso contrário, 0: 5
+Erro de execução. Favor responder corretamente com 1 ou 0.
+Você gosta de sorvete? Se sim, responda 1, caso contrário, 0: 1
+Você tem bom gosto
+Você gosta de sorvete? Se sim, responda 1, caso contrário, 0: 0
+Acho melhor você rever seus hábitos... 
+
+
+      
