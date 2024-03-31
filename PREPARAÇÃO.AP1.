@@ -1,0 +1,24 @@
+1)É vantajoso dominar conceitos fundamentais da programação ao lidar com o Direito, visto que a programação auxilia a construção de um pensamento lógico, além de a demanda por tecnologia no setor jurídico estar crescendo, e os advogados com melhor entendimento do setor estarão naturalmente mais conscientes das questões que aparecem no exercício da profissão.
+2)a) Algoritmos são um conjunto de instruções/comandos que tomam decisões ou realizam coisas a partir de informações que possuem. 
+ b) Nuvem é a camada de abstração sobre o hardware, que armazena e processa dados de diversos computadores, como se fosse um só. 
+c) Servidor é é um equipamento ou um software; que atua como componente essencial de todas as redes online, permitindo comunicações, transações e o acesso a informações em uma escala global. Sem servidores não haveria e-mails, websites, armazenamento em nuvem ou mesmo a capacidade de fazer uma simples busca online. O servidor centraliza informações e dados dentro de uma rede. 
+d) Neutralidade da rede é a premissa de que todo tráfego deve ser tratado de forma equânime; é o acesso igualitário a todos os sites e programas, com as mesmas oportunidades de serem acessados. 
+e) Arquivo é a persistência de dados em programação, permitindo o acesso a tais dados posteriormente. 
+3) A Internet pode organizar conceitos diversos tais como máquinas, cabos, programas e dados. As máquinas são como ferramentas em que se podem utilizar da Internet; a partir de cabos, por exemplo, podem-se receber dados ou saída de dados; os programas são formas de comunicação entre a máquina e o ser humano, por meio das linguagens de programação; e os dados são informações que podem ser processadas ou armazenadas em tais máquinas. 
+4) Os computadores precisam ser programados precisamente para realizar suas tarefas e repetem o que humanos sabem fazer, porém é um facilitador: executam atividades de forma eficiente, célere e de modo automático.
+5) 
+6) Um arquivo binário é o armazenamento de dados por meio de sequências de bytes; já o arquivo de texto seria o armazenamento de dados por sequência de caracteres. 
+7) Um formato proprietário de arquivos trata-se de uma forma pública, ou seja, as suas instruções são públicas, além de não haver restrições. Já o formato proprietário de arquivos seria com instruções privadas, além de haver restrições de uso. Os dados públicos são dados coletados e armazenados por órgãos governamentais, e eles podem restringir o uso por motivos como: para restringir o acesso ao dado; o gerador ser específico; e por necessidade técnica. 
+8) 
+9) a) O sistema operacional trata-se de uma camada de abstração sobre o hardware, em que se trata de um programa para que outros programas sejam utilizados no computador. 
+9)b) Não, existem vários sistemas operacionais. 
+9)c) Vender computadores obrigatoriamente ativados com um sistema operacional pode ser considerado "venda casada", visto que o comprador do computador possui o direito de escolher o sistema operacional a ser utilizado, havendo tutela no Código de Defesa do Consumidor. 
+10)a) Sobre a abrangência da LGPD, não há a inclusão de datacenters de países estrangeiros; a LGPD se aplica a dados coletados no Brasil, não necessariamente brasileiros. 
+10)b) Na minha opinião, em relação ao conteúdo em desacordo com regras de comunidade, os servidores de aplicação não agem de maneira adequada, visto que, por não serem responsáveis pelo que os usuários publicam (permitindo assim a liberdade de expressão), abre-se a margem para conteúdos invasivos, explícitos e fortes. 
+Já sobre o conteúdo que destrói reputações, sabidamente falso, os servidores de aplicação deveriam tomar medidas adequadas como a proibição e o controle desses conteúdos, visto que podem interferir negativamente na vida de alguém. Tais servidores de aplicação precisam ter maior responsabilidade sobre conteúdos postados. 
+11)a) As estruturas de repetição utilizadas são: while e for. 
+b) Os blocos de comando são definidos por funções, que podem realizar tarefas específicas e podem ser executados diversas vezes. 
+c) O operador + pode realizar uma soma, ou pode definir o valor de x inalterado (se o x for positivo, tanto faz a presença do operador +, inalterando assim o seu valor). 
+d) Uma função é um bloco de código que pode ser realizado para reproduzir tarefas específicas, e pode ser executado diversas vezes. 
+e) Definimos uma função no Python pela sigla "def". 
+f) As estruturas de tomada de decisão da linguagem são: if, if-else, if-elif-else. 
