@@ -1,0 +1,51 @@
+HTML: é uma linguagem de marcação usada para criar e estruturar páginas da web. Ela fornece uma estrutura básica para o conteúdo de uma página da web, incluindo texto, imagens, links, formulários e outros elementos. HTML não é uma linguagem de programação no sentido tradicional; em vez disso, é uma linguagem de marcação que descreve a estrutura e o conteúdo de uma página da web usando tags e atributos. As tags HTML são elementos que envolvem diferentes partes do conteúdo e definem sua função e aparência na página. Além disso, o HTML é frequentemente combinado com outras tecnologias da web, como CSS (Cascading Style Sheets) para estilizar a aparência da página e JavaScript para adicionar interatividade e funcionalidade dinâmica. Juntas, essas tecnologias formam a base do desenvolvimento web moderno.
+CSS: é uma linguagem de estilo usada para controlar a apresentação e o layout de elementos HTML em uma página da web. Enquanto o HTML é usado para estruturar o conteúdo de uma página, o CSS é usado para estilizar e formatar esse conteúdo. Com CSS, os desenvolvedores podem definir estilos para diferentes elementos HTML, como cores, fontes, tamanhos, margens, espaçamento, posicionamento e muito mais. Isso permite criar páginas da web visualmente atraentes e bem organizadas. A sintaxe do CSS consiste em regras que especificam como os elementos HTML devem ser estilizados. Cada regra é composta por um seletor, que indica a qual elemento HTML a regra se aplica, e um conjunto de declarações de estilo, que define as propriedades e valores a serem aplicados ao elemento selecionado.
+Java Script (JS):  é uma linguagem de programação de alto nível, interpretada, multi-paradigma e orientada a objetos. Originalmente desenvolvida pela Netscape, é uma das linguagens de programação mais utilizadas para desenvolvimento web. JavaScript é a principal linguagem de programação usada para adicionar interatividade e dinamismo às páginas da web. Enquanto HTML é usado para definir a estrutura e o conteúdo de uma página web, e CSS é usado para definir sua apresentação e estilo, JavaScript é usado para criar comportamentos e funcionalidades dinâmicas. Com JavaScript, os desenvolvedores podem manipular elementos HTML, responder a eventos do usuário, criar animações, validar formulários, fazer requisições HTTP assíncronas (AJAX), manipular cookies, criar jogos, entre outras coisas.
+HTML: <!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título da página</title>
+  </head>
+  <body>
+    <h1>Olá, mundo!</h1>
+  </body>
+</html>
+
+
+
+CSS: h1 {
+    color: red;
+    font-size: 24px;
+}
+
+
+
+JS: <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de JavaScript</title>
+</head>
+<body>
+
+<script>
+    window.onload = function() {
+        alert("Página carregada!");
+    };
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

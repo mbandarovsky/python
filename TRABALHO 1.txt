@@ -1,0 +1,20 @@
+ALGORITMO: conjunto de instruções e regras que um programa de computador (mas não apenas ele) possui para executar suas funções.  sequência de instruções ou comandos realizados de maneira sistemática com o objetivo de resolver um problema ou executar uma tarefa.
+INTELIGÊNCIA ARTIFICIAL:é um conjunto de tecnologias que permitem aos computadores executar uma variedade de funções avançadas, incluindo a capacidade de ver, entender e traduzir idiomas falados e escritos, analisar dados, fazer recomendações e muito mais. 
+BANCO DE DADOS: é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. 
+REDE NEURAL ARTIFICIAL: técnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência.
+JURIMETRIA: é a aplicação de técnicas de análise quantitativa ao campo do Direito, sendo disciplina resultante da aplicação de modelos estatísticos na compreensão dos processos e fatos jurídicos
+https://www.significados.com.br/algoritmo/
+https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-br
+https://www.oracle.com/br/database/what-is-database/
+https://www.projuris.com.br/blog/jurimetria/
+
+INFORMAÇÃO: conjunto de conhecimentos reunidos sobre determinado assunto ou pessoa. É a reunião ou o conjunto de dados e conhecimentos organizados, que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno.
+NEUTRALIDADE DA REDE:: Todo tráfego precisa ser tratado de forma equânime. É um princípio essencial para garantir a liberdade e a igualdade na internet. Ela assegura que todos tenham as mesmas oportunidades de acessar e compartilhar informações e conteúdos, independentemente de quem são ou do tipo de conteúdo que estão transmitindo.
+ZERO-RATING:  É a prática de fornecer à Internet sem custos financeiros, porém com algumas condições, permitindo apenas o acesso a determinados sites ou subsidiando o serviço com publicidade. O zero-rating FERE a neutralidade da rede, visto que não há um tratamento igual. 
+VARIÁVEL (COMPUTAÇÃO): Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos. As variáveis são muito importantes para o funcionamento de programas e aplicações dos mais diversos tipos que lidam com cálculos, condições, repetições e qualquer outro dado mutável durante o seu funcionamento.
+NUVEM: O armazenamento em nuvem é um modelo de computação em nuvem que permite armazenar dados e arquivos na Internet por meio de um provedor de computação em nuvem que você acessa usando a Internet pública ou uma conexão de rede privada dedicada. O provedor armazena, gerencia e mantém com segurança os servidores de armazenamento, a infraestrutura e a rede para garantir que você tenha acesso aos dados quando precisar, em escala praticamente ilimitada e com capacidade elástica. O armazenamento em nuvem elimina a necessidade de comprar e gerenciar sua própria infraestrutura de armazenamento de dados, oferecendo agilidade, escalabilidade e durabilidade com acesso aos dados a qualquer hora e em qualquer lugar.
+https://www.significados.com.br/informacao/
+https://principios.cgi.br/neutralidade-da-rede
+https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate
+https://www.people.com.br/noticias/informatica/o-que-sao-variaveis-e-para-que-elas-servem-na-programacao#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20espa%C3%A7o,definidas%20por%20nomes%20e%20tipos.
+https://aws.amazon.com/pt/what-is/cloud-storage/#:~:text=armazenamento%20em%20nuvem%3F-,O%20que%20%C3%A9%20o%20armazenamento%20em%20nuvem%3F,conex%C3%A3o%20de%20rede%20privada%20dedicada.
